@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: chatgpt-api
+    env: php
+    plan: free
+    buildCommand: ""
+    startCommand: ""
